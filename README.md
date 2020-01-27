@@ -1,1 +1,1 @@
-# gitrepositytest
+top.v位于/game/main文件目录下，主项目名为VGAdemo
