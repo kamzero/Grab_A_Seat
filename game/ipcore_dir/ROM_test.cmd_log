@@ -1,0 +1,1 @@
+ngdbuild -intstyle ise -dd _ngo -sd .. -nt timestamp -i -p xc7k160t-ffg676-1 ROM_test.ngc ROM_test.ngd  

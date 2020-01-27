@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Download\VGAdemo\impact.xsl
+OUTFILE=C:\Download\VGAdemo\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\Download\VGAdemo
+LICENSE=iMPACT
+USER_INFO=iMPACT
